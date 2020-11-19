@@ -9,6 +9,3 @@ Working on fun projects such as...
   
   ![cool](https://github.com/IntelligentLet/deer-lake-dotfiles/blob/master/deer%20lake%20preview.png?raw=true)
 
-  heard adding these is the new cool thing
-  ![stats](https://github-readme-stats.vercel.app/api?username=intelligentlet)
-  
