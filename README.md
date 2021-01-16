@@ -5,7 +5,8 @@ Working on fun projects such as...
   
   My portfolio website ([repo](https://github.com/intelligentlet/intelligentlet.github.io)) ([site](https://intelligentlet.github.io))
   
-  Theming my desktop ([dotfiles](https://github.com/IntelligentLet/deer-lake-dotfiles))
+  [Shype](https://github.com/intelligentlet/shype), a typing test in bash
   
-  ![cool](https://github.com/IntelligentLet/deer-lake-dotfiles/blob/master/deer%20lake%20preview.png?raw=true)
-
+  Theming my desktop ([dotfiles](https://github.com/IntelligentLet/wfrst))
+  
+  ![cool](https://raw.githubusercontent.com/IntelligentLet/wfrst/master/screenshot_20210103_155708.png)
