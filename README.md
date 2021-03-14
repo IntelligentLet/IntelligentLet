@@ -7,6 +7,6 @@ Working on fun projects such as...
   
   [Shype](https://github.com/intelligentlet/shype), a typing test in bash
   
-  Theming my desktop ([dotfiles](https://github.com/IntelligentLet/wfrst))
+  Theming my desktop ([dotfiles](https://github.com/IntelligentLet/pink-dots))
   
-  ![cool](https://raw.githubusercontent.com/IntelligentLet/wfrst/master/screenshot_20210103_155708.png)
+  ![rice1](https://raw.githubusercontent.com/IntelligentLet/pink-dots/main/Untitled.png)
